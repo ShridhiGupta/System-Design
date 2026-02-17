@@ -1,0 +1,3 @@
+US Order - Subtotal: $100.00, Tax: $10.00, Total: $110.00
+EU Order - Subtotal: $100.00, Tax: $20.00, Total: $120.00
+UK Order - Subtotal: $100.00, Tax: $15.00, Total: $115.00
