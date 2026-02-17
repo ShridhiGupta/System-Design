@@ -29,7 +29,7 @@ class UKOrderProcessor {
 // TODO: Extract a TaxCalculator interface and region implementations.
 // TODO: Refactor OrderProcessor to accept a TaxCalculator.
 
-public class Question {
+public class Question1 {
     public static void main(String[] args) {
         // After refactoring, usage should look like:
         // OrderProcessor usProcessor = new OrderProcessor(new USTaxCalculator());

@@ -48,7 +48,7 @@ class OrderProcessor {
     }
 }
 
-public class Answer {
+public class Answer1 {
     public static void main(String[] args) {
         OrderProcessor usProcessor = new OrderProcessor(new USTaxCalculator());
         usProcessor.processOrder(100.0);
